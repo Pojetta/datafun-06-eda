@@ -2,7 +2,7 @@
 
 This project focuses on developing a custom exploratory data analysis (EDA) workflow using GitHub, Jupyter, pandas, Seaborn, and other leading data analytics tools.
 
-## Create and Manage Your Virtual Environment
+## Create and Manage Virtual Environment
 
 1. Open your project folder in VS Code.
 2. Open a terminal in VS Code to sync the latest project contents: `git pull` 
