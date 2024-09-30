@@ -15,6 +15,12 @@ This project focuses on developing a custom exploratory data analysis (EDA) work
    `git commit -m "Your commit message"`  
    `git push -u origin main`
 
+## Dataset Description
+
+The Titanic dataset is a well-known collection of data often used in data analysis and machine learning. It provides information about passengers aboard the RMS Titanic, which tragically sank on its first voyage in April 1912. The dataset includes details like age, gender, class, ticket fare, and survival staus. It’s a useful resource for exploring patterns and factors that might have affected survival during this historic event.
+
+https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
+
 ## Create Jupyter Notebook
 1. Open project folder in VS Code.
 2. Create Jupyter Notebook file: 'joannafarris_eda.ipynb'
