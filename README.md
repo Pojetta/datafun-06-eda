@@ -15,6 +15,6 @@ This project focuses on developing a custom exploratory data analysis (EDA) work
    `git commit -m "Your commit message"`  
    `git push -u origin main`
 
-# Load Dataset into a Pandas Dataframe
+## Load Dataset into a Pandas Dataframe
 
 `df = pd.read_csv("titanic.csv")`
