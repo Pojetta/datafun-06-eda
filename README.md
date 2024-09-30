@@ -15,6 +15,12 @@ This project focuses on developing a custom exploratory data analysis (EDA) work
    `git commit -m "Your commit message"`  
    `git push -u origin main`
 
-## Load Dataset into a Pandas Dataframe
+## Create Jupyter Notebook
+1. Open project folder in VS Code.
+2. Create Jupyter Notebook file: 'joannafarris_eda.ipynb'
 
-`df = pd.read_csv("titanic.csv")`
+## Load Dataset into a Pandas Dataframe
+1. In project folder save dataset as csv file:`titanic.csv`  
+2. In Jupyter Notebook file:  
+   * import pandas:`import pandas as pd`  
+   * load file into pandas dataframe: `df = pd.read_csv("titanic.csv")`
