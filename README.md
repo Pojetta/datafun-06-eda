@@ -30,3 +30,7 @@ https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
 2. In Jupyter Notebook file:  
    * import pandas:`import pandas as pd`  
    * load file into pandas dataframe: `df = pd.read_csv("titanic.csv")`
+
+## Perform and publish a custom EDA project 
+
+Demonstrate skills with Jupyter, pandas, Seaborn and popular tools for data analytics. The notebook should tell a data story and visually present findings in a clear and engaging manner.
